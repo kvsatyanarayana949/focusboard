@@ -62,7 +62,7 @@ This project fulfills all criteria of the MobileFirst Frontend Trainee Assessmen
    - **Quick Status Toggle**: Direct status toggle button cycling through `To do` $\rightarrow$ `In progress` $\rightarrow$ `Completed`.
 5. **Search & Combined Cooperative Filters**:
    - Case-insensitive search filtering task titles dynamically.
-   - Status tabs: `All tasks`, `In progress`, `Completed`.
+   - Status tabs: `All tasks`, `To do`, `In progress`, `Completed`.
    - Priority dropdown: `All`, `High`, `Medium`, `Low`.
    - All three filters work together seamlessly.
 6. **Data Persistence**:

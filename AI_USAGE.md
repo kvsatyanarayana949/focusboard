@@ -7,13 +7,14 @@
 ---
 
 ## 2. Representative Prompts
-Below are representative prompts utilized during the project lifecycle:
+The following are representative summaries of instructions used during the project, not necessarily verbatim quotations:
 
-1. *"Analyze the FocusBoard assignment requirements and Figma frames (Desktop 1440x1000, Mobile 390x1128, Create Task Modal 760x822, Focus Notes slides 1-3) to establish component hierarchy, responsive layout rules, and data contracts."*
-2. *"Implement a custom React hook `useLocalStorage` that safely reads and writes task data without throwing exceptions during JSON serialization or overwriting user data on page reload."*
-3. *"Construct the Focus Notes 3-slide productivity carousel with circular next/previous navigation, interactive slide indicator pills, and the floating tilted progress card."*
-4. *"Create a cooperative filtering pipeline in React that simultaneously evaluates title keywords (case-insensitive), status tab selection, and priority dropdown level with dynamic empty states."*
-5. *"Audit the FocusBoard implementation against the official 4-page assessment PDF: check for missing status filters ('To do'), test tablet responsiveness at 768px width, and verify CRUD edge cases."*
+1. **Figma Design Implementation**:
+   Implement the FocusBoard application from the supplied Figma reference screenshots (Desktop 1440×1000, Mobile 390×1128, Create-task form 760×822, Focus Notes slides 1–3), reproducing the sidebar, header, dynamic statistics, carousel, and task list without prebuilt dashboard templates.
+2. **Strict Assessment Audit & Verification**:
+   Perform a strict audit of the implementation against the official four-page assessment PDF: check for the missing "To do" filter, test tablet responsiveness at 768px width, verify localStorage persistence across page reloads, test combined filtering, and validate CRUD edge cases.
+3. **Readiness Check & Documentation Accuracy**:
+   Perform a final local project readiness check verifying all assignment requirements, production build success, clean Git working tree, screenshot existence, and accurate AI disclosure in AI_USAGE.md.
 
 ---
 

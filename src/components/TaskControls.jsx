@@ -12,6 +12,7 @@ export function TaskControls({
 }) {
   const tabs = [
     { id: "all", label: `All tasks ${totalTasksCount}`, mobileLabel: `All ${totalTasksCount}` },
+    { id: "to-do", label: "To do", mobileLabel: "To do" },
     { id: "in-progress", label: "In progress", mobileLabel: "In progress" },
     { id: "completed", label: "Completed", mobileLabel: "Completed" },
   ];

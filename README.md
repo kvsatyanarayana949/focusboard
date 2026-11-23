@@ -2,6 +2,9 @@
 
 > A responsive, single-user task management dashboard built with React.js, Vite, and modern CSS3, meticulously engineered according to the official Figma design specifications.
 
+**Live Demo**: [https://focusboard-nu-pearl.vercel.app/](https://focusboard-nu-pearl.vercel.app/)  
+**GitHub Repository**: [https://github.com/kvsatyanarayana949/focusboard](https://github.com/kvsatyanarayana949/focusboard)
+
 ---
 
 ## 🎯 Overview & Objective
@@ -68,6 +71,16 @@ This project fulfills all criteria of the MobileFirst Frontend Trainee Assessmen
 6. **Data Persistence**:
    - Backed by `localStorage` (`focusboard_tasks` key).
    - Pre-seeded with 8 sample tasks for first-time visitors; subsequent edits, additions, and deletions are saved immediately and survive page refreshes.
+
+---
+
+## 📸 Screenshots & UI Previews
+
+### Desktop Dashboard (1440 × 1000)
+![FocusBoard Desktop Dashboard](screenshots/desktop-dashboard.png)
+
+### Mobile Dashboard (390 × 1128)
+![FocusBoard Mobile Dashboard](screenshots/mobile-dashboard.png)
 
 ---
 
@@ -139,7 +152,7 @@ In accordance with the assignment guidelines, the state architecture follows a *
 ### Installation
 ```bash
 # 1. Clone repository
-git clone <repository-url>
+git clone https://github.com/kvsatyanarayana949/focusboard.git
 cd focusboard
 
 # 2. Install dependencies
@@ -162,8 +175,8 @@ npm run preview
 
 ## 🌐 Deployment & Repository
 
-- **Public GitHub Repository**: *[GitHub Repository URL]*
-- **Live Production URL**: *[Vercel / Netlify URL]*
+- **Live Production URL**: [https://focusboard-nu-pearl.vercel.app/](https://focusboard-nu-pearl.vercel.app/)
+- **Public GitHub Repository**: [https://github.com/kvsatyanarayana949/focusboard](https://github.com/kvsatyanarayana949/focusboard)
 
 ---
 
